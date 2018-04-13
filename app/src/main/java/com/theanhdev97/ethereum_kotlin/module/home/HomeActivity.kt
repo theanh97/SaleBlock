@@ -48,6 +48,11 @@ class HomeActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemS
         findView()
         initView()
         setEventListener()
+        requestPermisison()
+    }
+
+    fun requestPermisison() {
+        PermissionHelper.request(this)
     }
 
     fun demo() {
