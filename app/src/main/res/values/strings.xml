@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Sale Block</string>
+  <string name="network_error">Error Network !!!</string>
+  <string name="product_is_not_exist">Product is not exist !!!</string>
+</resources>

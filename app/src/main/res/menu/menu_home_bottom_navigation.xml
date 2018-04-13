@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:icon="@drawable/ic_information"
+      android:id="@+id/action_contact"
+      android:title="Contact"></item>
+  <item
+      android:id="@+id/action_scan"
+      android:icon="@drawable/ic_camera"
+      android:title="Scan"></item>
+  <item
+      android:icon="@drawable/ic_reply"
+      android:id="@+id/action_reply"
+      android:title="Reply"></item>
+</menu>
